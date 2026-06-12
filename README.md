@@ -38,7 +38,7 @@ career-match-ai/
 
 ├── README.md
 
-└── screenshots/output.jpg
+└── screenshot/output.jpeg
 
 ---
 
@@ -52,12 +52,6 @@ python career_recommender.py
 
 4. Enter your skills or interests
 5. View recommended career paths
-
----
-
-## Preview
-
-![Output](screenshots/output.jpg)
 
 ---
 
